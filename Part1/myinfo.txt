@@ -1,3 +1,8 @@
 Eric Neiman
+<<<<<<< HEAD
 23060
 neimanes@mymail.vcu.edu
+=======
+(800) 123-5678
+neimanes
+>>>>>>> addPhone
